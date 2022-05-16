@@ -20,6 +20,7 @@ class app:
 
 def main():
     root = tk.Tk()
+    root.title('URL Shortener')
     window = app(root)
     root.mainloop()
 
