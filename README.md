@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-![Example screenshot](./img/)
+![Example screenshot](./img/Screenshot.png)
 
 ## Technologies Used
 
@@ -31,7 +31,7 @@
 
 ## Project Status
 
-Project is: _in progress_
+Project is: _completed_
 
 ## Contact
 
