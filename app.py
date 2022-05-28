@@ -16,6 +16,7 @@ class app:
     def shorten(self):
         short = pyshorteners.Shortener()
         shorturl = short.tinyurl.short(self.entry.get())
+        self.label.delete(1.0, tk.END)
         self.label.insert(tk.END, shorturl)
 
 def main():
