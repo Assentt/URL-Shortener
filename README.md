@@ -13,7 +13,7 @@
 
 ## General Information
 
-  URL shortener to learn PyShorteners
+  URL shortertener made with Pyshorteners and Tkinter. Input links, program outputs shorter links with tinyurl
 
 ## Screenshots
 
@@ -27,7 +27,8 @@
 
 ## Setup
 
-`$ pip install pyshorteners`
+`pip install tk`
+`pip install pyshorteners`
 
 ## Project Status
 
